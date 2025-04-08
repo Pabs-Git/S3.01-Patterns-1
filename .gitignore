@@ -1,0 +1,14 @@
+# Ignorar todo por defecto
+/*
+
+# No ignorar la carpeta Nivel_1/src
+!README.txt
+!.gitignore
+!Nivel_1/
+!Nivel_2/
+!Nivel_1/src/
+!Nivel_2/src/
+!Nivel_1/src/**
+!Nivel_2/src/**
+!src/**
+
