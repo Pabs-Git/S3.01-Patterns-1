@@ -1,10 +1,11 @@
 package main;
 
-import applications.TestMain;
+import applications.Menu;
 
 public class Main {
     public static void main(String[] args) {
-        TestMain.testMain1();
+
+        Menu.testMain1();
     }
 }
 

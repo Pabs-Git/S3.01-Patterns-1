@@ -4,7 +4,7 @@ import classes.Undo;
 
 import java.util.Scanner;
 
-public class TestMain {
+public class Menu {
 
     public static void testMain1() {
 
