@@ -1,12 +1,13 @@
 # Ignorar todo por defecto
 /*
 
-# No ignorar la carpeta Nivel_1/src
-!README.txt
+# No ignorar .gitignore y README.txt
 !.gitignore
+!README.txt
+
+# Permitir carpeta Nivel_1/src/ y su contenido
+!Nivel_1/
 !Nivel_1/src/
-!Nivel_2/src/
 !Nivel_1/src/**
-!Nivel_2/src/**
-!src/**
+
 
