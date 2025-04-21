@@ -28,7 +28,4 @@ L'aplicació ha de permetre afegir a l'agenda, adreces i números de telèfon in
 
 # 🛠️Instal·lació
 
-1. Clona el repositori o copia els fitxers `.java` en un directori local:
-   ```sh
-   git clone https://github.com/el-teu-usuari/java-undo-singleton.git
-   cd java-undo-singleton
+1. Clona el repositori o copia els fitxers `.java` en un directori local.
