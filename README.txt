@@ -1,8 +1,21 @@
 # 📄Descripció - Enunciat de l'exercici
 
-Aquest exercici consisteix a crear una classe que repliqui el funcionament de la comanda `Undo`. Aquesta classe permet gestionar un historial de comandes introduïdes per consola, amb funcionalitats per afegir, eliminar i llistar comandes. 
+Nivel 1 y 2 completados de Patterns 1.
 
-La classe `Undo` s'ha d'implementar utilitzant el patró de disseny **Singleton** per assegurar que només existeix una instància d’aquesta classe al llarg de l'execució del programa. Aquesta classe serà utilitzada per una classe `Main` que permetrà introduir opcions per consola.
+Nivell 1
+En tots els exercicis, crea un projecte amb una classe Main que demostri l'ús del patró (amb les invocacions necessàries).
+
+Singleton
+Crea una classe que repliqui el funcionament del comando 'Undo'. Aquesta classe serà utilitzada per la classe Main, que permetrà introduir opcions per consola.
+
+La classe 'Undo' ha de guardar les últimes comandes introduïdes. Ha de permetre afegir o eliminar comandes, així com llistar les últimes comandes introduïdes (semblant a la comanda 'history' en Linux).
+La classe 'Undo' ha d'implementar imprescindiblement un patró Singleton.
+
+Nivell 2
+Abstract Factory
+Crea un petit gestor de direccions i números de telèfon internacionals.
+
+L'aplicació ha de permetre afegir a l'agenda, adreces i números de telèfon internacionals. Tenint en compte els diferents formats dels diferents països, construeix l'agenda, les adreces i els telèfons implementant un patró Abstract Factory.
 
 # 💻Tecnologies Utilitzades
 
