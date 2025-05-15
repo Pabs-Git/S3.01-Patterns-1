@@ -8,7 +8,7 @@ public class Undo {
     private static volatile Undo instance;
     private List<String> commandHistory;
 
-    public Undo() {
+    private Undo() {
         this.commandHistory = new ArrayList<>();
     }
 

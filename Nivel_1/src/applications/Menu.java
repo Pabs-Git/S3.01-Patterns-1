@@ -9,7 +9,7 @@ public class Menu {
     public static void testMain1() {
 
         Scanner scanner = new Scanner(System.in);
-        Undo commandHistory = new Undo();
+        Undo commandHistory = Undo.getInstance();
         String option, command;
         while (true) {
             System.out.println("""
